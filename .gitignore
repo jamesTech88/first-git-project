@@ -1,0 +1,4 @@
+debug.log
+*.tmp
+temp/
+secret.txt
