@@ -2,3 +2,5 @@ debug.log
 *.tmp
 temp/
 secret.txt
+*.log
+cache/
