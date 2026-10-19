@@ -1,1 +1,2 @@
 i understand Git remote and pushing to GitHub
+learning how git fetch works
