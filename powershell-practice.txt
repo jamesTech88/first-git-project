@@ -1,0 +1,3 @@
+I am learning powershell.
+I ca create  files using Set-Content.
+I can add more content using Add-Content.
